@@ -1,8 +1,6 @@
 Topics: declaring multiple variables
 		Concatenation
 
-package name: day05_Concatenation
-
 warmup tasks:
 
 	1. create a class called Varibales_Practice & declear the following variables:
