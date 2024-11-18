@@ -3,12 +3,12 @@ package week_3_StringConcatenation;
 public class Variables_Practice {
 
     public static void main(String[] args) {
-          num1 = 100;
-          num2 = 10000;
-          num3 = 3.5;
-          num4 = 2.5f;
-          num5 = 9_999_999_999L;
-           num6 = 850000;
+          int num1 = 100;
+          long num2 = 10000;
+          double num3 = 3.5;
+          float num4 = 2.5f;
+          long num5 = 9_999_999_999L;
+           int num6 = 850000;
 
          /*
     "123" + 1 = "1231"

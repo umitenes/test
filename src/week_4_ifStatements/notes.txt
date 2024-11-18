@@ -3,27 +3,24 @@ Topics: Recap
 		If Statements:
 				single if
 Warmup task:
-	1. Create a class called IdentifyNumber, and write a program that can identify if the given number is positive, or negative or zero.
-
+	1. Create a class called IdentifyNumber, and write a program
+	that can identify if the given number is positive, or negative or zero.
 			Ex:
 				number = 200
-
 			output:
 		        200 is positive number: true
 		        200 is negative number: false
 		        200 is zero: false
-
-    2. Create a class called EvenlyDivisible,and write a program that can check if a number is evenly divisible by 2, 3, 5
+    2. Create a class called EvenlyDivisible,and write a program that can check
+    if a number is evenly divisible by 2, 3, 5
     		Ex:
 				number = 65;
-
 			output:
 				65 is divisible by 2: false
 				65 is divisible by 3: false
 				65 is divisible by 5: true
 
 Variables: Container for Data, makes the data reusable
-
 		Declare:
 			DataType VariableName = Data;
 
@@ -78,7 +75,8 @@ Topics: If & Else Statement
 		Multi-Branch If
 
 Warmup tasks:
-	1. Create a class called MinNumber, Write a program that can print the minimum number between two numbers, if both are equal then print Equal
+	1. Create a class called MinNumber, Write a program that
+	can print the minimum number between two numbers, if both are equal then print Equal
 			Ex:
 				n1= 100, n2 = 200;
 
@@ -91,16 +89,17 @@ Warmup tasks:
 			possibility #2: n2 is Min
 			possibility #3: equal
 
-	2. Create a class called MedianNumber. write a program that can find the median number between three DIFFERENT given integers
+	2. Create a class called MedianNumber. write a program that
+	can find the median number between three DIFFERENT given integers
 			Ex:
 				a = 10, b= 15, c = 20;
 
 			Output:
 				15 is the median number
 
-			Posibility #1: a could be median number
-			Posibility #2: b could be median number
-			Posibility #3: c could be median number
+			Possibility #1: a could be median number
+			Possibility #2: b could be median number
+			Possibility #3: c could be median number
 
 Single if: for one condition
 
@@ -121,9 +120,9 @@ if & else: when there are only two option/possibilities ( not more not less than
 		Female or Male
 		Pass or Fail
 		Married or not Married
-		employeed or not employeed
+		employed or not employed
 		Odd or Even
-		Enligible or not eligible
+		Eligible or not eligible
 
 Multi-branch if: when there are three or more option/possibilities
 
@@ -144,8 +143,8 @@ Multi-branch if: when there are three or more option/possibilities
 task:
 		1. Maximum number between two different numbers
 		2. Minimum number between two different numbers
-		3. Write a progrm that can check if the person is eligible to buy alcohol
-		4. Write a progrm that can check if the person is eligible to vote
+		3. Write a program that can check if the person is eligible to buy alcohol
+		4. Write a program that can check if the person is eligible to vote
 
 Task:
 	1. garde report ==> A, B, C, D, F

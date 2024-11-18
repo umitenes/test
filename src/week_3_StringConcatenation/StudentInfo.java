@@ -3,14 +3,14 @@ package week_3_StringConcatenation;
 public class StudentInfo {
 
     public static void main(String[] args) {
-         student_name = "Tamara";
-         age = 25;
-         gender = 'F';
-         schoolName = "Cydeo";
-         phoneNumber1 = "(123)-456-7891";
-         phoneNumber2 = "(124)-454-7891";
-         isFullTime = true;
-         GPA = 3.5;
+         String student_name = "Tamara";
+         byte age = 25;
+         char gender = 'F';
+         String schoolName = "Cydeo";
+         String phoneNumber1 = "(123)-456-7891";
+        String phoneNumber2 = "(124)-454-7891";
+         boolean isFullTime = true;
+         double GPA = 3.5;
         //soutv
         System.out.println("student_name = " + student_name);
         System.out.println("age = " + age);

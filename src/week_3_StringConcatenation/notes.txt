@@ -1,5 +1,5 @@
 Topics: declaring multiple variables
-		Concatenation
+		Concatenation,  Castings
 
 warmup tasks:
 
