@@ -21,6 +21,7 @@ public class StudentInfo {
         System.out.println("GPA = " + GPA);
         System.out.println("isFullTime = " + isFullTime);
 
+        System.out.println(GPA+10);
 
     }
 
